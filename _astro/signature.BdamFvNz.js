@@ -1,0 +1,1 @@
+var e=`MB-ES-e672deaf16 · Ethereal Samurai © 2026 MuneBound (lunaevolans). All rights reserved.`;export{e as t};
