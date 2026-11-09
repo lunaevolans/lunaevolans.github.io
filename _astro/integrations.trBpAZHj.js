@@ -1,0 +1,1 @@
+var e={alertOn:[`lead.created`,`booking.created`,`booking.cancelled`,`payment.confirmed`],sync:{webhook:!0},turnstileSiteKey:`0x4AAAAAAF2FIBLaxNTct2F7`,pagespeedApiKey:``};export{e as t};
