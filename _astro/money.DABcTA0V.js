@@ -1,0 +1,1 @@
+function e(e,t={}){let n=t.cents??!Number.isInteger(e);return new Intl.NumberFormat(`en-US`,{style:`currency`,currency:`USD`,minimumFractionDigits:n?2:0,maximumFractionDigits:n?2:0}).format(e)}var t=t=>e(t/100,{cents:t%100!=0});export{e as n,t};
